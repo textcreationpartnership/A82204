@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the officers belonging to the brigade of Col. Iohn Lambert, commander in cheif [sic] in the northern parts, now lying leaguer before Pontefract Castle, at a general meeting of them, to advise upon (and declare their sence of) the present condition of affairs of the kingdom, to his Excellency the Lord General Fairfax and his General Councel. As also Col. Lambert's letter to the General concerning the same. By the appointment of the officers at a general meeting. Pontefract, Decemb. 12. Signed, Tho. Margetts.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82204</idno>
+            <idno type="STC">Wing D729</idno>
+            <idno type="STC">Thomason E477_10</idno>
+            <idno type="STC">ESTC R205538</idno>
+            <idno type="EEBO-CITATION">99864888</idno>
+            <idno type="PROQUEST">99864888</idno>
+            <idno type="VID">117120</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82204)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117120)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E477[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the officers belonging to the brigade of Col. Iohn Lambert, commander in cheif [sic] in the northern parts, now lying leaguer before Pontefract Castle, at a general meeting of them, to advise upon (and declare their sence of) the present condition of affairs of the kingdom, to his Excellency the Lord General Fairfax and his General Councel. As also Col. Lambert's letter to the General concerning the same. By the appointment of the officers at a general meeting. Pontefract, Decemb. 12. Signed, Tho. Margetts.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Macock, for John Partridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Decemb: 20".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pontefract Castle (England) --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Pontefract (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117120:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE Officers belonging to the Brigade OF Col. Iohn Lambert, Commander in cheif in the Northern Parts, now lying Leaguer before <hi>Pontefract</hi> Caſtle, At a General Meeting of them, to adviſe upon (and declare their ſence of) the preſent condition of Affairs of the Kingdom, To his Excellency the Lord General FAIRFAX and his General Councel.</p>
+            <p>As alſo Col. LAMBERT'S Letter to the General concerning the ſame.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>BY the Apointment of the Officers at a General Meeting.</p>
+                        <closer>
+                           <dateline>Pontefract, <date>Decemb. 12.</date>
+                           </dateline> 
+                           <signed>Signed, <hi>THO. MARGETTS.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Macock,</hi> for JOHN PARTRIDGE. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117120:2"/>
+            <pb n="3" facs="tcp:117120:2"/>
+            <head>A Declaration of the Officers of Colonel <hi>Lamberts</hi> Brigade, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Excellency,</salute>
+            </opener>
+            <p>DIvers of us at a late meeting, did make a ſhort addreſs by Letter unto your Lordſhip, and your General Councel, of what was thought fit at that preſent, until a more general meeting and conſideration might be had, of thoſe things, we, both before and then, had in our thoughts to preſent unto you. And being now convened at a full meeting, deeply ſenſible, and clear<g ref="char:EOLhyphen"/>ly ſatisfied in our judgments, of the preſent dangerous poſture, and ſad condition of the Kingdom, in relation to the Treaty, and other publike affairs; We have agreed, on the behalf of our ſelves, and the reſt of the Officers and Souldiers under our Commands, to expreſs unto you that ſence and thoſe humble deſires, which God hath been pleaſed to put into our hearts thereupon, as followeth.</p>
+            <p>At the beginning of theſe late differences, the Parliament having acquainted the Kingdom, with the Kings Intentions to draw the Sword of War againſt them, for the maintaining of His Own Arbi<g ref="char:EOLhyphen"/>trary Power, and by their ſeveral Declarations, Remonſtran<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, <hi>&amp;c.</hi> given clear ſatisfaction to all the well affected, of the juſtneſs of a de<g ref="char:EOLhyphen"/>fenſive War; and thereby inciting and incouraging all, as they tendred their Native Rights and Freedoms, to riſe in Arms for their defence. We were induced out of judgment and conſcience, to appear accord<g ref="char:EOLhyphen"/>ingly, and have ever ſince imployed, and uſed our utmoſt endeavors, to the great hazard of our lives, eſtates, and all that was dear unto us, in that juſt and neceſſary work.</p>
+            <p>In proſecution whereof, this poor Kingdom, hath long lain under moſt heavy burthens, and oppreſſions, vaſt ſums of money have been raiſed by the Parliament upon Exciſe, Sequeſtrations, Compoſitions of Delinquents, Aſſeſsments, Biſhops Lands, King and Queens Revenues, <hi>&amp;c.</hi> beſides the great debts of the Kingdom unſatisfied, many Towns and Countreys much depopulated and deſtroyed, thouſands of our dear friends and fellow-laborers, have loſt their lives and periſhed in this great ſervice, their wives and children been undone, and many of us yet alive, loſt much of our deareſt blood.</p>
+            <pb n="4" facs="tcp:117120:3"/>
+            <p> All which, would yet not ſeem ſo grievous to us, the common ene<g ref="char:EOLhyphen"/>mies, being (by the bleſſing of God upon the Armies) twice vanquiſh<g ref="char:EOLhyphen"/>ed, brought under, and capital offenders apprehended, if after all this (when no viſible power hath appeared, or been left, to oppoſe or hin<g ref="char:EOLhyphen"/>der the Parliament, from ſetling the Kingdom, in Peace and Freedom; redeeming it from injuſtice, ſlavery, unneceſſary taxes, oppreſſions, and executing Juſtice upon Offenders) we could once have ſeen a right uſe made of thoſe opportunities, which <hi>God</hi> hath ſeveral times put into their hands for doing thereof.</p>
+            <p>But; to the great grief of our ſouls, we ſee not any probable means by them uſed, to bring about this neceſſary work: On the contrary, it is apparent, that private deſignes are carried on, by pretended, even Parliament, friends, with common enemies, (depriving the Nation of reaping the fruit of all the eight yeers labors and ſervices) to introduce that very Tyranny and Oppreſſion, which we were by them invited to oppoſe; and eſtabliſh by Treaty, and Act of Parliament, a ſtronger foundation for (and clearer way to) advancing the Kings deſtructive deſigne and tyrannical vill, then formerly he had, thereby to ſubject the whole Kingdom, to a maſs of perpetual oppreſsion and injuſtice; and betray all the well affected in the Kingdom, (eſpecially thoſe who had been moſt actively engaged againſt the ſame) to ſudden deſtructi<g ref="char:EOLhyphen"/>on without remedy.</p>
+            <p>For proof whereof (omitting many particulars) we need but take a revie<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the ſeveral former Treaties, eſpecially this laſt, moſt dan<g ref="char:EOLhyphen"/>gerous, Perſonal Treaty; having all been gained, by the apparent treachery of the ſaid pretended friends, and the cunning policy of the common enemies, upon the loſs or weakneſs of their power in the field; and ſo purſued upon the plauſible pretence of Peace-making, truly intending nothing but ſlavery and deſtruction.</p>
+            <p>To bring about this great unparaleld deſign, theſe treacherous deſign<g ref="char:EOLhyphen"/>ers did not only raiſe ſeveral great Armies &amp; Forces in all parts (almoſt) of the Kingdom (to the great hazard of the ruine thereof,) but alſo in<g ref="char:EOLhyphen"/>vited and procured a numerous and powerful army out of <hi>Scotland,</hi> that they might the more plauſibly, and upon fairer pretences, carry on their deſtructive deſigne; ſuggeſting to the Kingdom, that there was no other way for prevention of War, and ſetling of Peace, then by this Perſonal Treaty, when they themſelves were the cauſers of the War, and the Kingdoms unſettlement.</p>
+            <p>To this purpoſe they endeavored (the Lords eſpecially, who refuſed to joyn with the Commons in declaring the <hi>Scotiſh</hi> Army, invading
+<pb n="5" facs="tcp:117120:3"/>the Kingdom under the Conduct of Duke <hi>Hamilton,</hi> to be Enemies) all they could to procure a Ceſſation of Arms with that (and the Eng<g ref="char:EOLhyphen"/>liſh Malignant) Army, when they were in the bowels of the Kingdom, and we were ready to engage with them, that they might thereby get to themſelves the greater advantage to carry on their work; Which had they effected, and the good providence of God not prevented, would, in all probability, have brought to paſs that their intended Compliance with the King, upon his own terms, and their intereſt on<g ref="char:EOLhyphen"/>ly, which now, after the defeate and abſolute breaking of thoſe For<g ref="char:EOLhyphen"/>ces and Armies, they ſtill labor all they can to bring about, contrary to the earneſt deſires and frequent Petitions preſented to the Parliament from the well-affected in all parts of the Kingdom; and ſtrugling, to the utmoſt, to put the Kings partee, and all the Malignant diſaffected people, into a better condition, after their laſt Rebellion, then they were at the beginning, and all the well-affected, that have done and ſuffered ſo much, into a ready way of ruine.</p>
+            <p>And notwithſtanding your Excellency, and your general Councel, had moſt clearly repreſented to the Parliament the dangers and evils of this perſonal Treaty, your Remonſtrance &amp; Deſires were neglected and refuſed, ſo much as to be taken into conſideration; But on the contra<g ref="char:EOLhyphen"/>ry, (as we have been informed) the Kings Anſwers upon the whole Treaty were voted by the Lords to be ſatisfactory, and by the Houſe of Commons, to be ſufficient for a ſafe Peace to be grounded upon: Which gives us juſt cauſe to beleeve, that this Treaty is a clear deſign to betray the Kingdoms juſt Cauſe (which God hath twice pleaded, and judged for them in the ſight of all men) into their enemies power again, leaving the unlimited ſupremacy where it was, as if we had engaged altogether without Cauſe, and gained nothing by all our loſſes, hazards and ſufferings, but to be thrown, at laſt, into the cruel hands of our moſt implacable enemies. And therefore conclude, that all Members of Parliament, or other publique perſons, acting ſuch de<g ref="char:EOLhyphen"/>ſigns, are betrayers of their truſt, and perverters of the very end and eſſence of the power committed to them; charging upon them the cauſe of the Kingdoms preſent unſetledneſs, diſtraction, oppreſſion, and of all our, and their, fears and miſeries. So that,</p>
+            <p>We cannot longer be ſilent Spectators of the Kingdoms impending ruin, nor upholders of thoſe that ſeek it, leaſt thereby we ſhould be in<g ref="char:EOLhyphen"/>volved in their guilt, and make defection from our firſt principles, but humbly conceive, that we are ſtill bound in duty and conſcience to pro<g ref="char:EOLhyphen"/>ſecute and purſue to the utmoſt of our powers, with our lives and for<g ref="char:EOLhyphen"/>tunes,
+<pb n="6" facs="tcp:117120:4"/>thoſe principles of Freedom and Juſtice, that by the <hi>Parlia<g ref="char:EOLhyphen"/>ments Declarations, Remonſtrances, &amp;c.</hi> we were at firſt called forth to act upon, in oppoſition the Kings unjuſt unlimited will, for the re<g ref="char:EOLhyphen"/>covery and defence of the common Rights and Freedoms of the people, greatly rejoycing to ſee ſo generall a ſympathy in all your Forces (and the wel-affected) by their ſeveral Addreſſes to you, and cannot but take ſpecial notice of Gods great goodneſs to this poor Nation, in preparing, and providentially diſpoſing a people, in the ſeveral corners thereof, to ſtand up for Truth and Juſtice, in a time of ſuch woful corruption and apoſtacy, wherein many men in publike truſts and places (perverting the true end of the power they are entruſted with) ſtudy nothing more then the advancing of their own ends and intereſts.</p>
+            <p>Neither will the ſame Ground and Principle, which led us forth at the beginning of the Wars, to oppoſe Tyranny and Oppreſſion, in the King and his Adherents, now give us leave to ſit down quietly, as long as we ſee the Authority and Power of the Kingdom ſetting up the ſame Tyranny and Oppreſſion, (in their own or any other Intereſt whatſoever,) or the Parliament taking away that due and juſt Liberty of the Peoples choſing their own Repreſentatives, by making them<g ref="char:EOLhyphen"/>ſelves perpetual, and thereby in a ſhort time, the little finger of this latter, heavyer then the loyns of the former Oppreſſion.</p>
+            <p>All which having ſeriouſly conſidered, and that all ordinary means, by the Petitions and cries of the well-affected, have been tryed in vain, (when nothing was expected by us and them but ſudden deſtruction,) we received and peruſed a Copy of your late <hi>Remonſtrance,</hi> preſented to the Parliament, wherein we find the grand Caſe of the Kingdom very faithfully and diſcerningly ſtated and laid open, together with a wiſe and full diſcovery of the chief Maladies, Diſtempers, with ſutable Preſcriptions for its cure and recovery. We could not but expreſs one full approbation of, and free concurrence in the ſaid <hi>Remonſtrance,</hi> what cauſe we have to bleſs God, who hath raiſed in you ſuch a Spirit of diſcerning Wiſdom and Juſtice, which we hope proceed from Prin<g ref="char:EOLhyphen"/>ciples of Common Right, for the publique Good and Intereſt of the Kingdom; together with our humble Opinions, that the matters therein contained are moſt neceſſary to be proſecuted and obtained, as the moſt viſible and probable means for releeving and ſetling the Na<g ref="char:EOLhyphen"/>tion.</p>
+            <p>And though they may ſeem (as civil things) not ſo properly to come from the Army, yet ſeeing deliverance no other way, and providence calling in a neceſſary and extraordinary Caſe, to walk in an extraordina<g ref="char:EOLhyphen"/>ry
+<pb n="7" facs="tcp:117120:4"/>Way: We know that God, by whom you are called, who hath ſo often, ſo eminently, ſo experimentally appeared, both to you and us in our faithful endeavors, and great hazards for the Kingdoms Rights, will aſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uredly (upon your walking after him in the way of his Provi<g ref="char:EOLhyphen"/>dence, and humble waiting on him, in the way of his Judgments, with<g ref="char:EOLhyphen"/>out impatiency and diſtemper of ſpirit,) make your way plain before you, carry you through, and honor you with being the happy Inſtru<g ref="char:EOLhyphen"/>ments of Redemption and Deliverance to a poor dying Kingdom.</p>
+            <p>Our great deſire therefore is, That the ſaid <hi>Remonſtrance</hi> may be ſpeedily and effectually acted upon, with ſuch Wiſdom, Caution, Self-Denial, Care and Conſideration, as that both the common, and boſom Enemy may be prevented in their preſent, or future, obſtructing, oppo<g ref="char:EOLhyphen"/>ſing; Deſigns, may not have time and advantage to raiſe new diviſions, troubles; and theſe good conceptions, which God hath thus begotten in you, and (through you) Remonſtrated to the Kingdom, (in which all the well-affected, free, ingenious ſpirits, will moſt readily cloſe, and free<g ref="char:EOLhyphen"/>ly act, with you,) may not become an untimely birth (as heretofore,) but proſecuted to the life, ſo as the whole Kingdom may reap the fruit of all our labors, and its own ſufferings.</p>
+            <p>Though we ſhall not take upon us to adviſe or direct your Councel in the proſecution thereof, yet we take the boldneſs to offer our ſenſe and thoughts, deſiring,</p>
+            <p>That, as on the one hand, your actings may be full and effectual; ſo on the other, care may be taken, that they may be, with as much ſatis<g ref="char:EOLhyphen"/>faction as can, to all ſuch tender ſpirits as do agree with you in the juſt<g ref="char:EOLhyphen"/>neſs and goodneſs of the things propoſed, but notwithſtanding are not ſo clear in uſing of that means, that you may be forced to take for that end.</p>
+            <p>That the ſame care may be had for the taking away of all preſent and future objections of wilful and unneceſſary force, and that all impartial men may be ſatisfied, that your actings proceed not from your Wills or Intereſt, nor ſhal extend further, then ſingly and clearly to the redeeming of the juſt Liberty of this Nation, and the ſetling of it in peace and qui<g ref="char:EOLhyphen"/>etneſs.</p>
+            <p>To all which we we ſhall humbly and briefly offer;
+<list>
+                  <item>That only ſuch things may be inſiſted on as may put a reaſonable and certain period to this preſent Parliament, and may, for the fu<g ref="char:EOLhyphen"/>ture, establiſh free, ſucceſſive Parliaments, duly elected according to the Proviſion in the Remonſtrance.</item>
+                  <item>That there may be a ſure proviſion made for the more equal diſtri<g ref="char:EOLhyphen"/>butions of Elections, through the whole Kingdom.</item>
+                  <pb n="8" facs="tcp:117120:5"/>
+                  <item> That no perſons engaged in this War againſt the Parliament may either elect or be elected to be members of Parliament.</item>
+                  <item>That ſome certain Proviſion may be made, that no perſons that may be elected Members of Parliament, contrary to the Proviſion in the Remonſtrance, may be admitted thereto before they are tryed whether duly elected accordingly, and approved by ſome faithful men, to be carefully choſen, appointed and authorized to judg thereof.</item>
+                  <item>All which being ſetled, the Army provided for, ſo as no free Quarter may be taken, and ſuch other common and ordinary things as concern the adminiſtration of common Justice, the preſent quiet of the Kingdom, and all other things whatſoever, may be left to the power and dispoſal of the next free and duly elected Parliament, which we conceive may be the moſt proper inſtrument in the hand of God for ſetting the Kingdom.</item>
+                  <item>Theſe Ends and Principles, ſo long as you are carried forth to purſue (which we hope you never will forſake) you may be aſſured of our concurrence and aſſiſtance to the utmoſt of our powers.</item>
+               </list>
+            </p>
+            <closer>
+               <dateline>Pontefract, <date>Decem. 12. 1648.</date>
+               </dateline>
+               <signed>By the Appointment of the Officers at a general Meeting. Signed, <hi>THO. MARGETTS.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <opener>
+                  <salute>May it pleaſe your Excellency,</salute>
+               </opener>
+               <p>THis day, according to former appointment, there was a general Meeting of Officers here, who reſolved upon a Declaration to be preſented to your Lordſhip and your general Councel, and appoint<g ref="char:EOLhyphen"/>ed Captain <hi>Bayns</hi> with Captain <hi>Bradford</hi> to wait on your Excellency therewith, and to give you an account of their proceedings. They have deſired me to acquaint your Excellency, that they have appointed a ſtanding Councel of Officers, to meet on Friday every week, to re<g ref="char:EOLhyphen"/>ceive, conſult, and adviſe upon ſuch publique affairs as your Excel<g ref="char:EOLhyphen"/>lency or your general Councel ſhall think fit from time to time to com<g ref="char:EOLhyphen"/>municate to them, for keeping a right underſtanding and mutual cor<g ref="char:EOLhyphen"/>respondency between the Forces, that there may be a joynt acting in this publique Service.</p>
+               <p>They alſo deſire thoſe Officers may be admitted to ſit with your ge<g ref="char:EOLhyphen"/>neral Councel, to the end they may receive the better information, and have account of ſuch publique affairs wherein they may be concerned.</p>
+               <p>And this is all at the preſent from</p>
+               <closer>
+                  <dateline>Pontefract, <date>Dec. 12. 1648.</date>
+                  </dateline>
+                  <salute>My Lord,</salute> 
+                  <signed>Your Excellencies humble and faithful Servant, J. LAMBERT.</signed>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
